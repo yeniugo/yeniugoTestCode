@@ -1,0 +1,5 @@
+language: objective-c
+
+xcode_project: OCAddSwift/OCAddSwift.xcodeproj
+
+xcode_scheme: OCAddSwift
