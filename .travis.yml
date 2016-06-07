@@ -2,4 +2,4 @@ language: objective-c
 
 xcode_project: OCAddSwift/OCAddSwift.xcodeproj
 
-xcode_scheme: OCAddSwift
+xcode_scheme: OCAddSwift #测试
