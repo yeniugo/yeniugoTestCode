@@ -426,6 +426,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = OCAddSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.cn.youths.WisdomMembersConstruction.OCAddSwift;
@@ -440,6 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = OCAddSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.cn.youths.WisdomMembersConstruction.OCAddSwift;
@@ -513,6 +515,7 @@
 				22C8FEEB1CBB7A5200B0BD19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22C8FEEC1CBB7A5200B0BD19 /* Build configuration list for PBXNativeTarget "OCAddSwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +524,7 @@
 				22C8FEEE1CBB7A5200B0BD19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22C8FEEF1CBB7A5200B0BD19 /* Build configuration list for PBXNativeTarget "OCAddSwiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -529,6 +533,7 @@
 				22C8FEF11CBB7A5200B0BD19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
